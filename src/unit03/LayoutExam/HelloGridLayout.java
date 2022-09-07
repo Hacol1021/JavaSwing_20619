@@ -9,7 +9,10 @@ import javax.swing.JPanel;
 public class HelloGridLayout extends JFrame{
 	
 	HelloGridLayout(){
+	
 		
+		
+		//변경점 저장
 		JPanel p = new JPanel();
 		add(p);
 		
